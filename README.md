@@ -17,21 +17,15 @@ En el repositorio NutriUNFV: Settings → Pages → Deploy from a branch → mai
 - Alternativas con explicación de los criterios que difieren. Nunca se relaja la preferencia ni el ingrediente excluido.
 - Detalles, recetas, comparación por zona, favoritos persistentes con `localStorage` y acceso al detalle en un toque desde Inicio (dos desde un acceso rápido).
 - Navegación por teclado, etiquetas, avisos de estado, contraste y diseños para móvil y escritorio.
-- Opinión anónima con validación. Mientras Supabase no esté configurado, guarda SOLO en el navegador y lo comunica explícitamente.
+- Opinion anonima con validacion. El formulario envia respuestas a Supabase con permisos de insercion limitados. Si falla la conexion, conserva el texto y muestra el error.
 
-## Conectar Supabase
+## Supabase conectado
 
-1. Crear un proyecto gratuito NutriUNFV dentro de la organización del equipo. La contraseña de la base de datos debe gestionarla su propietario; no se necesita en la web.
-2. Ejecutar `supabase/schema.sql` en SQL Editor. Revisar que la tabla `opiniones` tenga RLS activa y solo la política INSERT para `anon`.
-3. En el panel del proyecto obtener la URL del proyecto y la clave **publishable** (o `anon` heredada).
-4. Completar `SUPABASE_URL` y `SUPABASE_PUBLISHABLE_KEY` en `js/config.js`. Son configuración pública. JAMÁS copiar una clave `service_role`, una clave secreta ni contraseñas.
-5. Publicar el cambio. El formulario pasará de «Guardar opinión en este dispositivo» a «Enviar opinión».
-6. Enviar una opinión de prueba identificada como «PRUEBA DEL EQUIPO»; confirmar la fila en Table Editor. Comprobar que una consulta anónima SELECT y solicitudes UPDATE/DELETE se rechazan. Documentar el resultado antes de declarar la integración verificada.
-7. Revisar respuestas en Table Editor como propietario y exportar desde el panel si se necesita analizarlas. Las opiniones no se guardan en GitHub.
+El proyecto `evhyavtxrjehzqlsvavp` ya está creado. Se ejecutó `supabase/schema.sql`; se comprobó RLS activa y solo la política INSERT para `anon`. `js/config.js` contiene la URL y una clave cliente pública. Se envió una prueba desde la web y el formulario confirmó recepción. La base contiene una fila marcada `PRUEBA TÉCNICA`; exclúyela de las respuestas de participantes.
 
-No hay protección robusta contra spam en esta versión: el campo trampa solo frena bots simples. Antes de una difusión amplia añadir limitación de solicitudes y validación mediante un endpoint con protección antispam. El acceso INSERT anónimo debe estar acotado por las restricciones del esquema. Revisar retención y eliminar datos de prueba desde el panel según decisión del propietario.
+Las claves cliente son públicas por diseño, y RLS/grants limitan su alcance. No poner `service_role`, claves secretas ni la contraseña de base de datos en la web.
 
-### Alternativa de formulario externo
+Pendiente para la evaluación: probar desde un visitante que SELECT/UPDATE/DELETE sean rechazados; las concesiones SQL están escritas para permitir solo INSERT. Revisa las respuestas como propietaria en Table Editor y expórtalas desde el panel, nunca desde la web pública.### Alternativa de formulario externo
 
 Completar `FORM_URL` con el enlace HTTPS del formulario del equipo. Aparecerá un botón para abrirlo. Este enlace NO envía automáticamente el formulario local: la persona responde en el servicio externo. Verificar su configuración para no solicitar identidad o datos de salud.
 
