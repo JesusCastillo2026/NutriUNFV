@@ -16,15 +16,15 @@ La aplicación completa está en `index.html`. Se puede abrir directamente en un
 4. Esperar a que **pages build and deployment** termine correctamente en **Actions**.
 5. Abrir el enlace público y recargar si se conserva una versión antigua.
 
-El repositorio conserva su nombre NutriUNFV para mantener la dirección compartida. Los archivos antiguos de `js/`, `css/`, `assets/` y `supabase/` son antecedentes; el nuevo `index.html` no los carga. Las pruebas de esta versión están en `tests-qhali.cjs`, no en el archivo antiguo `tests.cjs`.
+La versión beta está en el repositorio `QhaliMikhuna-beta`; esta versión mejorada se publica desde `QhaliMikhuna`. Los archivos antiguos de `js/`, `css/`, `assets/` y `supabase/` son antecedentes; el nuevo `index.html` no los carga. Las pruebas actualizadas están en `tests-qhali.cjs`.
 
 ## Funciones
 
-- **Hoy:** check-in opcional en cinco pasos con seis datos (hambre y comidas saltadas comparten pantalla), tres ideas dentro del presupuesto y mensaje empático. Un registro por día, hasta 30 días de historial.
-- **Comer:** ocho preparaciones; filtros de presupuesto, tiempo y vegetariano; cinco locales suministrados por el equipo; detalles, Maps por dirección y reserva oficial UNFV.
-- **Etiquetas:** cuatro octógonos, consejos sin culpa, leche frente a mezcla láctea y lectura de ingredientes.
-- **Más:** presupuesto semanal, menú pendiente simulado, panel local o ficticio, orientación, privacidad y equipo.
-- Diseño mobile-first, modo oscuro automático, foco visible, diálogos nativos, controles amplios y respeto de movimiento reducido.
+- **Hoy:** selector rápido de presupuesto y tiempo sin registro; check-in opcional en cinco pasos con seis datos (hambre y comidas saltadas comparten pantalla), tres ideas dentro del presupuesto y mensaje empático. Un registro por día, hasta 30 días de historial.
+- **Comer:** ocho preparaciones; búsqueda por nombre o ingrediente, favoritos y lista de compras local; filtros de presupuesto, tiempo y vegetariano; cinco locales suministrados por el equipo; detalles, Maps por dirección y reserva oficial UNFV.
+- **Etiquetas:** cuatro octógonos, práctica interactiva de advertencias, consejos sin culpa, leche frente a mezcla láctea y lectura de ingredientes.
+- **Más:** temporizador de pausa entre clases, presupuesto semanal, menú pendiente simulado, panel local o ficticio, orientación, privacidad y equipo.
+- Diseño mobile-first, modo oscuro automático, foco visible, diálogos nativos, controles amplios, animaciones breves y respeto de movimiento reducido.
 
 ## Privacidad y cambio respecto a Supabase
 
@@ -33,7 +33,7 @@ Esta versión no envía respuestas a servidores. No utiliza Supabase, cuentas ni
 - Historial: máximo 30 días, una entrada diaria actualizable. Aviso de cuidado al marcar triste o acumular tres registros difíciles en los últimos siete días.
 - Presupuestos: hasta 12 semanas registradas.
 - Simulación: hasta 50 códigos; no representa pagos ni entrega de comida.
-- El botón de borrado elimina solo la clave `qhali-mikhuna-v1` de este navegador.
+- El botón de borrado elimina solo la clave `qhali-mikhuna-final-v1` de este navegador.
 - El almacenamiento local no está cifrado ni sincronizado. En dispositivos compartidos se puede omitir el check-in o borrar los registros.
 
 La base de Supabase anterior **no fue eliminada ni modificada**. Las opiniones antiguas permanecen allí; los nuevos check-ins no aparecen en Table Editor. Maps, la reserva oficial y las fuentes se abren solo mediante enlaces, sin adjuntar respuestas.
@@ -44,7 +44,7 @@ Modificar los arreglos `RECIPES` y `PLACES` dentro del HTML. En `PLACES`, `price
 
 ## Verificación
 
-Ejecutar `node tests-qhali.cjs`: 27 pruebas de lógica y contratos con DOM simulado. Cubren recomendaciones, cuidado, ventanas de fechas, persistencia y fallos, filtros, presupuesto, simulación y borrado. No equivalen a auditoría de accesibilidad ni a prueba visual en todos los navegadores.
+Ejecutar `node tests-qhali.cjs`: 30 pruebas de lógica y contratos con DOM simulado. Cubren recomendaciones, cuidado, ventanas de fechas, persistencia y fallos, filtros, presupuesto, simulación y borrado. No equivalen a auditoría de accesibilidad ni a prueba visual en todos los navegadores.
 
 Para regenerar el PDF: `node docs/generar-cambios.cjs` (Node.js sin dependencias).
 
