@@ -5,7 +5,7 @@ const W=595.28,H=841.89,M=48,WIDTH=W-M*2;
 const colors={ink:[.16,.19,.17],muted:[.37,.40,.37],terra:[.66,.26,.18],teal:[.07,.39,.37],corn:[.96,.83,.49],paper:[.98,.97,.94],soft:[.89,.94,.91]};
 let streams=[],stream='',y=0,links=[];const pageLinks=[];
 const cp={'€':128,'‘':145,'’':146,'“':147,'”':148,'•':149,'–':150,'—':151,'…':133};
-function literal(s){let out='';for(const c of s){let n=cp[c]??c.charCodeAt(0);if(n>255)n=63;out+=n<32||n>126?'\\'+n.toString(8).padStart(3,'0'):'()\\'.includes(c)?'\\'+c:c}return'('+out+')'}
+function literal(s){let out='';for(const c of s.replaceAll('→','>')){let n=cp[c]??c.charCodeAt(0);if(n>255)throw Error('Carácter no soportado en PDF: '+c);out+=n<32||n>126?'\\'+n.toString(8).padStart(3,'0'):'()\\'.includes(c)?'\\'+c:c}return'('+out+')'}
 function col(c){return colors[c]||c}function fill(c){stream+=col(c).join(' ')+' rg\n'}
 function rect(x,top,w,h,c){fill(c);stream+=`${x} ${H-top-h} ${w} ${h} re f\n`}
 function text(s,x,top,size=11,font='F1',color='ink'){fill(color);stream+=`BT /${font} ${size} Tf 1 0 0 1 ${x} ${H-top-size} Tm ${literal(s)} Tj ET\n`}
