@@ -1,0 +1,702 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Lang (es-PE) >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 8 /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 26 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 3278 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (01) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (DE NUTRIUNFV A QHALI MIKHUNA) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Comer a tu ritmo.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (1 / 8) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 14 Tf 1 0 0 1 48 671.89 Tm (Informe de implementaci\363n del prototipo web para el concurso de aplicaciones) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 14 Tf 1 0 0 1 48 650.89 Tm (universitarias.) Tj ET
+0.66 0.26 0.18 rg
+48 536.89 499.28 85 re f
+1 1 1 rg
+BT /F2 28 Tf 1 0 0 1 70 579.89 Tm (Qhali Mikhuna) Tj ET
+1 1 1 rg
+BT /F1 10 Tf 1 0 0 1 70 557.89 Tm (\223Comida saludable\224 \267 identidad propuesta por el equipo) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 485.89 Tm (La pregunta que gu\355a el proyecto) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 461.89 Tm (\277C\363mo podr\355amos ayudar a los estudiantes de la UNFV a encontrar r\341pidamente una opci\363n de) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 445.39 Tm (comida saludable que se ajuste a su presupuesto y al poco tiempo que tienen entre clases?) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 405.89 Tm (Qu\351 se entrega) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 381.89 Tm (\225 Un \372nico index.html con HTML, CSS y JavaScript puro: sin frameworks, servidor de aplicaci\363n ni) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 365.39 Tm (librer\355as externas.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 341.89 Tm (\225 Cuatro pesta\361as: Hoy, Comer, Etiquetas y M\341s. Persistencia local y herramientas educativas.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 318.39 Tm (\225 Este documento, pruebas de l\363gica reproducibles y gu\355a de publicaci\363n.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 281.89 Tm (Equipo) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 258.39 Tm (Castillo Sumire Belssy \267 Flores Reyes Mar\355a Fernanda \267 Kancha Huam\341n Aida \267 Pinares Molina) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 242.64 Tm (Briggitte \267 Terrones C\363rdova Naomi.) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 48 216.89 Tm (Universidad Nacional Federico Villarreal, Lima, Per\372. Educaci\363n Secundaria, especialidad Computaci\363n e) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 48 201.14 Tm (Inform\341tica.) Tj ET
+0.89 0.94 0.91 rg
+48 113.88999999999999 499.28 72 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 163.39 Tm (Prototipo acad\351mico independiente. Los contenidos de salud est\341n pendientes de revisi\363n final) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 147.39 Tm (por una nutricionista. Este informe documenta cambios; no inventa resultados de pruebas con) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 131.39 Tm (usuarios.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R /Annots [] >>
+endobj
+7 0 obj
+<< /Length 3730 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (02) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (COMPARACI\323N DE VERSIONES) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Qu\351 cambi\363 y por qu\351.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (2 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 673.89 Tm (Identidad) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 655.89 Tm (Antes: NutriUNFV y est\351tica verde.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 636.39 Tm (Ahora: Qhali Mikhuna: terracota, amarillo ma\355z y turquesa; ilustraci\363n propia en SVG y patr\363n) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 620.64 Tm (geom\351trico andino.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 587.39 Tm (Arquitectura) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 569.39 Tm (Antes: Varios archivos, Bootstrap y recursos CDN.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 549.89 Tm (Ahora: Toda la aplicaci\363n est\341 contenida en index.html. No hay compilaci\363n ni dependencias de red para) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 534.14 Tm (ejecutarla una vez cargada.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 500.89 Tm (Navegaci\363n) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 482.89 Tm (Antes: Inicio, b\372squeda, mapa, favoritos y consejos.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 463.39 Tm (Ahora: Cuatro accesos inferiores: Hoy, Comer, Etiquetas y M\341s. Del inicio al detalle de una receta: dos) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 447.64 Tm (acciones.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 414.39 Tm (Contenido de comida) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 396.39 Tm (Antes: Cat\341logo anterior de opciones de ejemplo.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 376.89 Tm (Ahora: Ocho preparaciones con costos estimados de ingredientes y solo los cinco lugares) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 361.14 Tm (proporcionados en el encargo.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 327.89 Tm (Datos y feedback) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 309.89 Tm (Antes: Formulario de opiniones enviado a Supabase.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 290.39 Tm (Ahora: La nueva aplicaci\363n no env\355a respuestas a Supabase. Check-in, presupuesto y simulaci\363n se) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 274.64 Tm (guardan \372nicamente en el navegador.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 12 Tf 1 0 0 1 48 241.39 Tm (Herramientas nuevas) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 223.39 Tm (Antes: B\372squeda y orientaci\363n general.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 203.89 Tm (Ahora: Check-in, oct\363gonos interactivos, presupuesto semanal, men\372 pendiente simulado y panel local/de) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 10.5 Tf 1 0 0 1 48 188.14 Tm (demostraci\363n.) Tj ET
+0.89 0.94 0.91 rg
+48 110.88999999999999 499.28 56 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 144.39 Tm (La base de datos Supabase existente no se elimina ni se modifica. Las opiniones antiguas) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 128.39 Tm (permanecen all\355. Los nuevos check-ins no aparecer\341n en Table Editor.) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R /Annots [] >>
+endobj
+9 0 obj
+<< /Length 3670 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (03) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (DISE\321O Y EXPERIENCIA DE USO) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Una interfaz que acompa\361a.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (3 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Identidad visual) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 637.89 Tm (Portada con ilustraci\363n de un plato y alimentos cotidianos; tarjetas amplias, jerarqu\355a tipogr\341fica) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 621.39 Tm (clara y navegaci\363n inferior persistente. Se usa la fuente del sistema para evitar descargas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 604.89 Tm (externas.) Tj ET
+0.66 0.26 0.18 rg
+48 553.39 151 36 re f
+0.16 0.19 0.17 rg
+BT /F2 9 Tf 1 0 0 1 48 537.39 Tm (Terracota #A8422D) Tj ET
+0.96 0.83 0.49 rg
+217 553.39 151 36 re f
+0.16 0.19 0.17 rg
+BT /F2 9 Tf 1 0 0 1 217 537.39 Tm (Ma\355z #F5D47D) Tj ET
+0.07 0.39 0.37 rg
+386 553.39 151 36 re f
+0.16 0.19 0.17 rg
+BT /F2 9 Tf 1 0 0 1 386 537.39 Tm (Turquesa #12635E) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 487.39 Tm (Movimiento y accesibilidad) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 463.39 Tm (\225 Transici\363n breve entre pantallas, ilustraci\363n flotante y respuesta visual al interactuar con) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 446.89 Tm (botones y tarjetas.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 423.39 Tm (\225 prefers-reduced-motion desactiva animaciones; prefers-color-scheme adapta los colores al) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 406.89 Tm (modo oscuro.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 383.39 Tm (\225 Controles de al menos 44 px, foco visible, etiquetas, estados aria, enlace para saltar al) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 366.89 Tm (contenido y di\341logos nativos con cierre por Escape.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 343.39 Tm (\225 Dise\361o mobile-first con rejillas que crecen en pantallas amplias. No se pide peso, calor\355as ni) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 326.89 Tm (metas de adelgazar.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 290.39 Tm (Cinco pasos, seis respuestas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 266.39 Tm (El encargo enumera seis datos. Para conservar cinco pasos se agrupan hambre y comidas saltadas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 249.89 Tm (en una pantalla. Cada paso usa elecciones expl\355citas y un bot\363n Continuar; no se promete completar) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 233.39 Tm (seis decisiones en cinco toques literales.) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 11 Tf 1 0 0 1 48 206.89 Tm (1. Energ\355a. 2. \301nimo. 3. Cuerpo. 4. Hambre + comidas saltadas. 5. Presupuesto.) Tj ET
+0.89 0.94 0.91 rg
+48 135.39 499.28 56 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 168.89 Tm (El acceso a una receta es r\341pido: Hoy Т Comer Т Ver idea. El check-in es opcional y tiene m\341s) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 152.89 Tm (interacciones porque incluye respuestas sensibles y guardado expl\355cito.) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R /Annots [] >>
+endobj
+11 0 obj
+<< /Length 4354 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (04) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (HOY, COMER Y ETIQUETAS) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Funciones implementadas.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (4 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Hoy: una pausa privada) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 637.89 Tm (El check-in devuelve tres ideas que no exceden S/ 3, S/ 5 o S/ 8 en ingredientes estimados. Si hay) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 621.39 Tm (poca energ\355a o mucho sue\361o se priorizan preparaciones m\341s r\341pidas. El estado emocional no se usa) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 604.89 Tm (para prescribir alimentos.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 578.39 Tm (Si se marca triste, aparece una invitaci\363n de cuidado. Tambi\351n aparece con tres o m\341s registros) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 561.89 Tm (dif\355ciles dentro de los \372ltimos siete d\355as: triste, estresado o comidas saltadas. Un registro puede) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 545.39 Tm (contar una sola vez aunque cumpla varios criterios.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 518.89 Tm (Se conserva un registro diario; repetir el d\355a lo actualiza para evitar inflar el conteo. Retenci\363n) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 502.39 Tm (m\341xima: 30 d\355as. No es una evaluaci\363n cl\355nica.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 462.89 Tm (Comer: preparar o explorar) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 438.89 Tm (\225 Ocho ideas: avena con pl\341tano; pan con huevo y tomate; lentejas con arroz; papa, huevo y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 422.39 Tm (ensalada; quinua con verduras; fruta con yogur y avena; ensalada de frejoles; arroz con pollo y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 405.89 Tm (verduras.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 382.39 Tm (\225 Filtros combinables de costo, tiempo y preferencia vegetariana; detalle de ingredientes,) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 365.89 Tm (preparaci\363n y al\351rgenos orientativos.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 342.39 Tm (\225 Lugares: comedor UNFV, Chifa Cristal \226 Santa Clara, Manzana Verde, Purito Criollo y Mayu\222s.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 325.89 Tm (No se a\361adieron otros negocios.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 302.39 Tm (\225 Precio desconocido nunca equivale a gratis: hay un filtro \223Por confirmar\224. Maps recibe una) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 285.89 Tm (b\372squeda por direcci\363n, sin coordenadas inventadas. El comedor enlaza a su reserva oficial, sin) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 269.39 Tm (confirmar cupos.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 232.89 Tm (Etiquetas: elegir informado) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 208.89 Tm (Cuatro oct\363gonos interactivos, explicaci\363n sencilla y consejo sin culpa. La diferencia entre leche) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 192.39 Tm (y mezcla l\341ctea se presenta junto al consejo de leer la denominaci\363n y la lista de ingredientes. Se) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 175.89 Tm (enlazan fuentes de MINSA, Indecopi e Inacal.) Tj ET
+0.89 0.94 0.91 rg
+48 88.38999999999999 499.28 72 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 137.89 Tm (Los costos de recetas son estimaciones de ingredientes. Precios y horarios comerciales) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 121.88999999999999 Tm (provienen del encargo y deben confirmarse; incluir un local no certifica que su oferta sea) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 105.88999999999999 Tm (saludable.) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R /Annots [] >>
+endobj
+13 0 obj
+<< /Length 3718 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (05) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (M\301S Y REGLAS \311TICAS) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Herramientas con l\355mites claros.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (5 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Presupuesto semanal) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 637.89 Tm (Permite registrar un presupuesto en soles y gastos de lunes a domingo. Calcula total, saldo y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 621.39 Tm (progreso; maneja presupuesto cero y exceso de gasto sin mensajes de culpa. Guarda hasta 12) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 604.89 Tm (semanas registradas y comienza un registro nuevo cada semana.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 565.39 Tm (Men\372 pendiente solidario) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 541.39 Tm (Simula dejar un men\372 y canjear un c\363digo local una sola vez. La interfaz informa que no hay pago,) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 524.89 Tm (donaci\363n efectiva ni entrega de comida. No funciona entre dispositivos. Guarda un m\341ximo de 50) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 508.39 Tm (c\363digos; limita los disponibles a 30.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 468.89 Tm (Panel para Bienestar Universitario) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 444.89 Tm (Muestra los estados de \341nimo del usuario en los \372ltimos siete d\355as. Un interruptor separado) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 428.39 Tm (muestra 27 registros ficticios identificados como DATOS SIMULADOS. No se mezclan con el) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 411.89 Tm (historial ni se env\355an a Bienestar. Una versi\363n institucional requerir\355a consentimiento y datos) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 395.39 Tm (an\363nimos agrupados.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 355.89 Tm (Orientaci\363n sin diagn\363stico) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 331.89 Tm (Se invita a consultar por p\351rdida de peso sin explicaci\363n, dificultad para comer o tragar, v\363mitos) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 315.39 Tm (persistentes, miedo intenso a comer, atracones o ejercicio compensatorio, sin importar el peso. No) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 298.89 Tm (se recomiendan tratamientos, dietas ni suplementos.) Tj ET
+0.89 0.94 0.91 rg
+48 227.39 499.28 56 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 260.89 Tm (Aviso de emergencia en todas las pesta\361as: si despu\351s de comer hay dificultad para respirar o) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 244.89 Tm (hinchaz\363n de labios, lengua o garganta, buscar atenci\363n de emergencia inmediata.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 187.39 Tm (Sobre el proyecto) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 163.39 Tm (Incluye el equipo completo, la pregunta de dise\361o, el origen en entrevistas y observaci\363n, el) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 146.89 Tm (car\341cter acad\351mico independiente y la revisi\363n nutricional final pendiente.) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R /Annots [] >>
+endobj
+15 0 obj
+<< /Length 4052 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (06) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (DATOS Y MANTENIMIENTO T\311CNICO) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Privacidad desde el prototipo.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (6 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Qu\351 se guarda) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 637.89 Tm (La clave qhali-mikhuna-v1 contiene un objeto JSON con historial, presupuestos semanales y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 621.39 Tm (c\363digos simulados. El historial incluye fecha local, energ\355a, \341nimo, cuerpo, hambre, comidas saltadas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 604.89 Tm (y presupuesto. No se solicitan identidad ni contacto.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 565.39 Tm (D\363nde y durante cu\341nto tiempo) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 541.39 Tm (\225 Solo en localStorage del navegador y origen donde se abre la app; no hay sincronizaci\363n entre) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 524.89 Tm (tel\351fonos o computadoras.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 501.39 Tm (\225 Los check-ins vencen despu\351s de 30 d\355as; al volver a abrir la app se depuran. Una pesta\361a) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 484.89 Tm (reactivada en un d\355a nuevo actualiza los periodos.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 461.39 Tm (\225 Presupuestos: hasta 12 semanas guardadas. Simulaci\363n: hasta 50 c\363digos. Borrado expl\355cito) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 444.89 Tm (desde M\341s Т Tu privacidad y tus datos.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 408.39 Tm (Qu\351 ocurre si no se puede guardar) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 384.39 Tm (Lectura, escritura y borrado usan try/catch. Si el navegador bloquea el almacenamiento, se avisa y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 367.89 Tm (se conserva una sesi\363n temporal. Los datos corruptos no impiden abrir la interfaz. Los datos) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 351.39 Tm (recuperados se validan antes de mostrarse.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 311.89 Tm (Sin env\355o de respuestas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 287.89 Tm (La aplicaci\363n no usa fetch, formularios remotos, anal\355tica ni bibliotecas de terceros. La pol\355tica) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 271.39 Tm (de seguridad incluye connect-src none y form-action none. Maps, reserva y fuentes solo se abren) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 254.89 Tm (por decisi\363n del usuario, sin incluir respuestas en sus enlaces.) Tj ET
+0.89 0.94 0.91 rg
+48 167.39 499.28 72 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 216.89 Tm (Local no significa cifrado: otra persona con acceso al mismo perfil del navegador podr\355a ver el) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 200.89 Tm (historial. GitHub Pages sigue siendo un alojamiento web; los enlaces externos tienen sus propias) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 184.89 Tm (pol\355ticas. En equipos compartidos conviene omitir el check-in o borrar datos al terminar.) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 48 140.89 Tm (Los archivos antiguos del repositorio se conservan como antecedente, pero el nuevo index.html no los) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 48 125.13999999999999 Tm (carga. No es necesario configurar Supabase para esta versi\363n.) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R /Annots [] >>
+endobj
+17 0 obj
+<< /Length 4152 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (07) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (CALIDAD Y FEEDBACK) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Verificar antes del concurso.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (7 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Comprobaciones realizadas) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 637.89 Tm (27 pruebas automatizadas de l\363gica y contratos con Node.js y DOM simulado. Incluyen sintaxis,) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 621.39 Tm (costos y filtros combinados, umbral de cuidado, ventana de siete d\355as, actualizaci\363n diaria,) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 604.89 Tm (retenci\363n, persistencia, JSON corrupto, almacenamiento bloqueado, presupuesto cero/negativo,) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 588.39 Tm (c\363digos de un uso y separaci\363n de datos simulados.) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 562.89 Tm (Archivo reproducible: tests-qhali.cjs. Comando: node tests-qhali.cjs. No sustituye pruebas visuales, lector) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 10 Tf 1 0 0 1 48 547.89 Tm (de pantalla ni evaluaci\363n con usuarios.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 508.89 Tm (Revisi\363n pr\341ctica del equipo) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 484.89 Tm (\225 Abrir en un celular real y en escritorio; revisar modo claro/oscuro, zoom al 200%, teclado y) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 468.39 Tm (movimiento reducido.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 444.89 Tm (\225 Probar un check-in con datos ficticios; recargar, revisar el historial y usar el borrado. Nunca) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 428.39 Tm (solicitar que una persona revele su estado emocional real durante la prueba.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 404.89 Tm (\225 Verificar presencialmente los cinco locales, precios, horarios y reserva del comedor; agregar) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 388.39 Tm (puestos econ\363micos solo con datos comprobados.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 364.89 Tm (\225 Solicitar revisi\363n final a la nutricionista antes de presentar el contenido como validado.) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 328.39 Tm (Plan breve de feedback) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 304.39 Tm (Invitar a 3\2265 estudiantes. Usar escenarios ficticios: encontrar una idea de S/ 3 en diez minutos;) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 287.89 Tm (consultar el precio no confirmado del comedor; explicar un oct\363gono; identificar que el men\372) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 271.39 Tm (pendiente es una simulaci\363n.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 244.89 Tm (Anotar si terminan la tarea, d\363nde dudan, qu\351 entienden y sus sugerencias. Preguntar: \223\277Qu\351 fue) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 228.39 Tm (confuso?\224, \223\277Qu\351 te servir\355a entre clases?\224 y \223\277Qu\351 informaci\363n falta?\224. No registrar datos) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 48 211.89 Tm (sensibles en este informe.) Tj ET
+0.89 0.94 0.91 rg
+48 124.38999999999999 499.28 72 re f
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 173.89 Tm (Priorizar cambios por impacto, viabilidad y valor para estudiantes. Las entrevistas originales son) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 157.89 Tm (contexto proporcionado por el equipo; no se inventan nuevas citas, m\351tricas ni resultados de) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 10.5 Tf 1 0 0 1 62 141.89 Tm (usabilidad.) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 17 0 R /Annots [] >>
+endobj
+19 0 obj
+<< /Length 3932 >>
+stream
+0.98 0.97 0.94 rg
+0 0 595.28 841.89 re f
+0.66 0.26 0.18 rg
+0 833.89 595.28 8 re f
+0.66 0.26 0.18 rg
+BT /F2 9 Tf 1 0 0 1 48 807.89 Tm (QHALI MIKHUNA) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 260 808.89 Tm (DOCUMENTACI\323N DE CAMBIOS / 22 OCT 2026) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 11 Tf 1 0 0 1 48 757.89 Tm (08) Tj ET
+0.37 0.4 0.37 rg
+BT /F2 9 Tf 1 0 0 1 78 759.89 Tm (GITHUB PAGES Y FUENTES) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 28 Tf 1 0 0 1 48 708.89 Tm (Publicar y seguir mejorando.) Tj ET
+0.66 0.26 0.18 rg
+48 49.889999999999986 499.28 1 re f
+0.37 0.4 0.37 rg
+BT /F1 8 Tf 1 0 0 1 48 30.889999999999986 Tm (UNFV \267 Educaci\363n Secundaria \267 Computaci\363n e Inform\341tica) Tj ET
+0.66 0.26 0.18 rg
+BT /F2 8 Tf 1 0 0 1 522.28 30.889999999999986 Tm (8 / 8) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 661.89 Tm (Publicaci\363n del archivo) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 637.89 Tm (\225 Abrir el repositorio JesusCastillo2026/NutriUNFV. Para una actualizaci\363n manual: Add file Т) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 621.39 Tm (Upload files, subir index.html a la ra\355z y confirmar el cambio en main.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 597.89 Tm (\225 En Settings Т Pages, elegir Deploy from a branch, rama main y carpeta /\(root\). Guardar si la) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 581.39 Tm (configuraci\363n a\372n no existe.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 557.89 Tm (\225 Esperar a que termine el despliegue de Pages en Actions. Abrir el enlace p\372blico y recargar si el) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 541.39 Tm (navegador conserva la versi\363n anterior.) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 517.89 Tm (\225 No subir datos personales, contrase\361as ni claves privadas. La aplicaci\363n necesita solo) Tj ET
+0.16 0.19 0.17 rg
+BT /F1 11 Tf 1 0 0 1 56 501.39 Tm (index.html; este PDF y las pruebas son documentaci\363n opcional.) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 478.89 Tm (P\341gina del proyecto) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 461.39 Tm (https://jesuscastillo2026.github.io/NutriUNFV/) Tj ET
+0.07 0.39 0.37 rg
+BT /F2 15 Tf 1 0 0 1 48 422.89 Tm (Referencias de implementaci\363n y contenido) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 399.89 Tm (GitHub: origen de publicaci\363n de Pages) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 382.39 Tm (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pa) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 369.39 Tm (ges-site) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 344.89 Tm (MINSA: oct\363gonos) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 327.39 Tm (https://www.gob.pe/1066-ministerio-de-salud-conoce-las-advertencias-publicitarias-o) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 302.89 Tm (Indecopi: leches y mezclas l\341cteas) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 285.39 Tm (https://www.gob.pe/institucion/indecopi/informes-publicaciones/2965196-que-consumes-comparativo-de-leches-y-mezclas-lac) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 272.39 Tm (teas) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 247.89 Tm (Inacal: lectura de etiquetas) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 230.39 Tm (https://www.inacal.gob.pe/principal/noticia/correcta-lectura-de-las-etiquetas-de-los-productos-alimenticios) Tj ET
+0.16 0.19 0.17 rg
+BT /F2 10 Tf 1 0 0 1 48 205.89 Tm (NHS: alergias alimentarias) Tj ET
+0.07 0.39 0.37 rg
+BT /F1 8.5 Tf 1 0 0 1 48 188.39 Tm (https://www.nhs.uk/conditions/food-allergy/) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 9 Tf 1 0 0 1 48 164.89 Tm (Consulta de fuentes: 22 de octubre de 2026. Los datos comerciales se tomaron exclusivamente del encargo. No se usaron) Tj ET
+0.37 0.4 0.37 rg
+BT /F1 9 Tf 1 0 0 1 48 151.39 Tm (umbrales num\351ricos regulatorios ni tel\351fonos de ayuda no verificados.) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 456.89 547.28 472.89] /Border [0 0 0] /A << /S /URI /URI (https://jesuscastillo2026.github.io/NutriUNFV/) >> >>
+endobj
+21 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 364.89 547.28 393.89] /Border [0 0 0] /A << /S /URI /URI (https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) >> >>
+endobj
+22 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 322.89 547.28 338.89] /Border [0 0 0] /A << /S /URI /URI (https://www.gob.pe/1066-ministerio-de-salud-conoce-las-advertencias-publicitarias-o) >> >>
+endobj
+23 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 267.89 547.28 296.89] /Border [0 0 0] /A << /S /URI /URI (https://www.gob.pe/institucion/indecopi/informes-publicaciones/2965196-que-consumes-comparativo-de-leches-y-mezclas-lacteas) >> >>
+endobj
+24 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 225.89 547.28 241.89] /Border [0 0 0] /A << /S /URI /URI (https://www.inacal.gob.pe/principal/noticia/correcta-lectura-de-las-etiquetas-de-los-productos-alimenticios) >> >>
+endobj
+25 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 183.89 547.28 199.89] /Border [0 0 0] /A << /S /URI /URI (https://www.nhs.uk/conditions/food-allergy/) >> >>
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 19 0 R /Annots [20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R] >>
+endobj
+27 0 obj
+<< /Title (Qhali Mikhuna - Documentaci\363n de cambios) /Author (Equipo Qhali Mikhuna - UNFV) /Subject (Implementaci\363n, privacidad, verificaci\363n y publicaci\363n) >>
+endobj
+xref
+0 28
+0000000000 65535 f 
+0000000015 00000 n 
+0000000078 00000 n 
+0000000183 00000 n 
+0000000280 00000 n 
+0000000382 00000 n 
+0000003711 00000 n 
+0000003864 00000 n 
+0000007645 00000 n 
+0000007798 00000 n 
+0000011519 00000 n 
+0000011673 00000 n 
+0000016079 00000 n 
+0000016234 00000 n 
+0000020004 00000 n 
+0000020159 00000 n 
+0000024263 00000 n 
+0000024418 00000 n 
+0000028622 00000 n 
+0000028777 00000 n 
+0000032761 00000 n 
+0000032930 00000 n 
+0000033178 00000 n 
+0000033384 00000 n 
+0000033630 00000 n 
+0000033860 00000 n 
+0000034026 00000 n 
+0000034222 00000 n 
+trailer
+<< /Size 28 /Root 1 0 R /Info 27 0 R >>
+startxref
+34410
+%%EOF
