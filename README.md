@@ -2,7 +2,7 @@
 
 Prototipo educativo independiente de estudiantes de Educación Secundaria, especialidad Computación e Informática, UNFV (Lima, Perú). Evolución de NutriUNFV.
 
-**Web:** https://jesuscastillo2026.github.io/NutriUNFV/
+**Web:** https://jesuscastillo2026.github.io/QhaliMikhuna/
 
 **Documentación de cambios:** [PDF de 8 páginas](docs/Qhali-Mikhuna-cambios.pdf).
 
